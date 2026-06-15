@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  margin: 0;
+  height: 100vh;
+  background: #000;
+  overflow: hidden;
+}
+
+.love {
+  width: 30px;
+  height: 30px;
+  background: #ff4d6d;
+  position: absolute;
+  transform: rotate(45deg);
+  animation: jatuh 4s linear
